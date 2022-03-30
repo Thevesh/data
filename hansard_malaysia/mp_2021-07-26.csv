@@ -1,0 +1,223 @@
+﻿seat_code,state,seat,mp
+P001,Perlis,Padang Besar,Zahidi bin Zainul Abidin
+P002,Perlis,Kangar,Noor Amin bin Ahmad
+P003,Perlis,Arau,Shahidan bin Kassim
+P004,Kedah,Langkawi,Mahathir bin Mohamad
+P005,Kedah,Jerlun,Mukhriz Tun Dr. Mahathir
+P006,Kedah,Kubang Pasu,Amiruddin bin Hamzah
+P007,Kedah,Padang Terap,Mahdzir bin Khalid
+P008,Kedah,Pokok Sena,Mahfuz bin Omar
+P009,Kedah,Alor Setar,Chan Ming Kai
+P010,Kedah,Kuala Kedah,Azman bin Ismail
+P011,Kedah,Pendang,Awang bin Hashim
+P012,Kedah,Jerai,Sabri bin Azit
+P013,Kedah,Sik,Ahmad Tarmizi bin Sulaiman
+P014,Kedah,Merbok,Nor Azrina binti Surip
+P015,Kedah,Sungai Petani,Johari bin Abdul
+P016,Kedah,Baling,Abdul Azeez bin Abdul Rahim
+P017,Kedah,Padang Serai,Karupaiya Mutusami
+P018,Kedah,Kulim Bandar Baharu,Saifuddin Nasution bin Ismail
+P019,Kelantan,Tumpat,Che Abdullah bin Mat Nawi
+P020,Kelantan,Pengkalan Chepa,Ahmad Marzuk bin Shaary
+P021,Kelantan,Kota Bharu,Takiyuddin bin Hassan
+P022,Kelantan,Pasir Mas,Ahmad Fadhli bin Shaari
+P023,Kelantan,Rantau Panjang,Siti Zailah binti Mohd Yusoff
+P024,Kelantan,Kubang Kerian,Tuan Ibrahim bin Tuan Man
+P025,Kelantan,Bachok,Nik Mohamad Abduh bin Nik Abdul Aziz
+P026,Kelantan,Ketereh,Annuar bin Musa
+P027,Kelantan,Tanah Merah,Ikmal Hisham bin Abdul Aziz
+P028,Kelantan,Pasir Puteh,Nik Muhammad Zawawi bin Salleh
+P029,Kelantan,Machang,Ahmad Jazlan bin Yaakub
+P030,Kelantan,Jeli,Mustapa bin Mohamed
+P031,Kelantan,Kuala Krai,Abdul Latif bin Abdul Rahman
+P032,Kelantan,Gua Musang,Tengku Razaleigh bin Tengku Mohd Hamzah
+P033,Terengganu,Besut,Idris bin Jusoh
+P034,Terengganu,Setiu,Shaharizukirnain bin Abdul Kadir
+P035,Terengganu,Kuala Nerus,Mohd Khairuddin bin Aman Razali
+P036,Terengganu,Kuala Terengganu,Ahmad Amzah bin Mohamed @ Hashim
+P037,Terengganu,Marang,Abdul Hadi bin Awang
+P038,Terengganu,Hulu Terengganu,Rosol bin Wahid
+P039,Terengganu,Dungun,Wan Hassan bin Mohd Ramli
+P040,Terengganu,Kemaman,Che Alias bin Hamid
+P041,Pulau Pinang,Kepala Batas,Reezal Merican bin Naina Merican
+P042,Pulau Pinang,Tasek Gelugor,Shabudin bin Yahya
+P043,Pulau Pinang,Bagan,Lim Guan Eng
+P044,Pulau Pinang,Permatang Pauh,Nurul Izzah binti Dato' Seri Anwar
+P045,Pulau Pinang,Bukit Mertajam,Steven Sim Chee Keong
+P046,Pulau Pinang,Batu Kawan,Kasthuriraani Patto
+P047,Pulau Pinang,Nibong Tebal,Mansor bin Othman
+P048,Pulau Pinang,Bukit Bendera,Wong Hon Wai
+P049,Pulau Pinang,Tanjong,Chow Kon Yeow
+P050,Pulau Pinang,Jelutong,Sanisvara Nethaji Rayer Rajaji Rayer
+P051,Pulau Pinang,Bukit Gelugor,Ramkarpal Singh
+P052,Pulau Pinang,Bayan Baru,Sim Tze Tzin
+P053,Pulau Pinang,Balik Pulau,Muhammad Baktiar bin Wan Chik
+P054,Perak,Gerik,
+P055,Perak,Lenggong,Shamsul Anuar bin Nasarah
+P056,Perak,Larut,Hamzah bin Zainudin
+P057,Perak,Parit Buntar,Mujahid Yusof Rawa
+P058,Perak,Bagan Serai,Noor Azmi bin Ghazali
+P059,Perak,Bukit Gantang,Syed Abu Hussin Hafiz bin Syed Abdul Fasal
+P060,Perak,Taiping,Teh Kok Lim
+P061,Perak,Padang Rengas,Mohamed Nazri bin Abdul Aziz
+P062,Perak,Sungai Siput,Kesavan Subramaniam
+P063,Perak,Tambun,Ahmad Faizal bin Azumu
+P064,Perak,Ipoh Timur,Wong Kah Woh
+P065,Perak,Ipoh Barat,Kulasegaran Murugeson
+P066,Perak,Batu Gajah,Sivakumar Varatharaju
+P067,Perak,Kuala Kangsar,Mastura binti Mohd Yazid
+P068,Perak,Beruas,James Ngeh Koo Ham
+P069,Perak,Parit,Mohd Nizar bin Zakaria
+P070,Perak,Kampar,Thomas Su Keong Siong
+P071,Perak,Gopeng,Lee Boon Chye
+P072,Perak,Tapah,Saravanan Murugan
+P073,Perak,Pasir Salak,Tajuddin bin Abdul Rahman
+P074,Perak,Lumut,Mohd Hatta bin Md Ramli
+P075,Perak,Bagan Datuk,Ahmad Zahid bin Hamidi
+P076,Perak,Teluk Intan,David Nga Kor Ming
+P077,Perak,Tanjong Malim,Chang Lih Kang
+P078,Pahang,Cameron Highlands,Ramli bin Dato' Mohd Nor
+P079,Pahang,Lipis,Abdul Rahman bin Mohamad
+P080,Pahang,Raub,Tengku Zulpuri Shah bin Raja Puji
+P081,Pahang,Jerantut,Ahmad Nazlan bin Idris
+P082,Pahang,Indera Mahkota,Saifuddin bin Abdullah
+P083,Pahang,Kuantan,Fuziah binti Salleh
+P084,Pahang,Paya Besar,Mohd Shahar bin Abdullah
+P085,Pahang,Pekan,Mohd Najib bin Tun Abdul Razak
+P086,Pahang,Maran,Ismail bin Abdul Muttalib
+P087,Pahang,Kuala Krau,Ismail bin Mohamed Said
+P088,Pahang,Temerloh,Mohd Anuar bin Mohd Tahir
+P089,Pahang,Bentong,Wong Tack
+P090,Pahang,Bera,Ismail Sabri bin Yaakob
+P091,Pahang,Rompin,Hasan bin Arifin
+P092,Selangor,Sabak Bernam,Mohd Fasiah bin Mohd Fakeh
+P093,Selangor,Sungai Besar,Muslimin bin Yahaya
+P094,Selangor,Hulu Selangor,June Leow Hsiad Hui
+P095,Selangor,Tanjong Karang,Noh bin Omar
+P096,Selangor,Kuala Selangor,Dzulkefly bin Ahmad
+P097,Selangor,Selayang,William Leong Jee Keen
+P098,Selangor,Gombak,Mohamed Azmin bin Ali
+P099,Selangor,Ampang,Zuraida binti Kamarudin
+P100,Selangor,Pandan,Wan Azizah binti Wan Ismail
+P101,Selangor,Hulu Langat,Hasanuddin bin Mohd Yunus
+P102,Selangor,Bangi,Ong Kian Ming
+P103,Selangor,Puchong,Gobind Singh Deo
+P104,Selangor,Subang,Wong Chen
+P105,Selangor,Petaling Jaya,Maria Chin binti Abdullah
+P106,Selangor,Damansara,Tony Pua Kiam Wee
+P107,Selangor,Sungai Buloh,Sivarasa Rasiah
+P108,Selangor,Shah Alam,Khalid bin Abdul Samad
+P109,Selangor,Kapar,Abdullah Sani bin Abdul Hamid
+P110,Selangor,Klang,Charles Anthony Santiago
+P111,Selangor,Kota Raja,Mohamad bin Sabu
+P112,Selangor,Kuala Langat,Xavier Jayakumar A/L Arulanandam
+P113,Selangor,Sepang,Mohamed Hanipa bin Maidin
+P114,W.P. Kuala Lumpur,Kepong,Lim Lip Eng
+P115,W.P. Kuala Lumpur,Batu,Prabakaran Parameswaran
+P116,W.P. Kuala Lumpur,Wangsa Maju,Tan Yee Kew
+P117,W.P. Kuala Lumpur,Segambut,Hannah Yeoh Tseow Suan
+P118,W.P. Kuala Lumpur,Setiawangsa,Nik Nazmi bin Nik Ahmad
+P119,W.P. Kuala Lumpur,Titiwangsa,Rina binti Mohd Harun
+P120,W.P. Kuala Lumpur,Bukit Bintang,Fong Kui Lun
+P121,W.P. Kuala Lumpur,Lembah Pantai,Ahmad Fahmi bin Mohamed Fadzil
+P122,W.P. Kuala Lumpur,Seputeh,Teresa Kok Suh Sim
+P123,W.P. Kuala Lumpur,Cheras,Tan Kok Wai
+P124,W.P. Kuala Lumpur,Bandar Tun Razak,Kamarudin bin Jaffar
+P125,W.P. Putrajaya,Putrajaya,Tengku Adnan bin Tengku Mansor
+P126,Negeri Sembilan,Jelebu,Jalaluddin bin Alias
+P127,Negeri Sembilan,Jempol,Mohd Salim bin Mohd Shariff
+P128,Negeri Sembilan,Seremban,Anthony Loke Siew Fook
+P129,Negeri Sembilan,Kuala Pilah,Eddin Syazlee bin Shith
+P130,Negeri Sembilan,Rasah,Cha Kee Chin
+P131,Negeri Sembilan,Rembau,Khairy bin Jamaluddin
+P132,Negeri Sembilan,Port Dickson,Anwar bin Ibrahim
+P133,Negeri Sembilan,Tampin,Hasan bin Bahrom
+P134,Melaka,Masjid Tanah,Mas Ermieyati binti Samsudin
+P135,Melaka,Alor Gajah,Mohd Redzuan bin Md. Yusof
+P136,Melaka,Tangga Batu,Rusnah binti Aluai
+P137,Melaka,Hang Tuah Jaya,Shamsul Iskandar Md Akin
+P138,Melaka,Kota Melaka,Khoo Poay Tiong
+P139,Melaka,Jasin,Ahmad bin Hamzah
+P140,Johor,Segamat,Santhara Kumar A/L Ramanaidu
+P141,Johor,Sekijang,Natrah binti Ismail
+P142,Johor,Labis,Pang Hok Liong
+P143,Johor,Pagoh,Mahiaddin bin Haji Md Yasin
+P144,Johor,Ledang,Syed Ibrahim bin Syed Noh
+P145,Johor,Bakri,Yeo Bee Yin
+P146,Johor,Muar,Syed Saddiq bin Syed Abdul Rahman
+P147,Johor,Parit Sulong,Noraini binti Ahmad
+P148,Johor,Ayer Hitam,Wee Ka Siong
+P149,Johor,Sri Gading,Shahruddin bin Md Salleh
+P150,Johor,Batu Pahat,Mohd Rashid Hasnon
+P151,Johor,Simpang Renggam,Maszlee bin Malik
+P152,Johor,Kluang,Wong Shu Qi
+P153,Johor,Sembrong,Hishammuddin Tun Hussein
+P154,Johor,Mersing,Abdul Latiff bin Ahmad
+P155,Johor,Tenggara,Adham bin Baba
+P156,Johor,Kota Tinggi,Halimah binti Mohamed Sadique
+P157,Johor,Pengerang,Azalina Othman Said
+P158,Johor,Tebrau,Steven Choong Shiau Yoon
+P159,Johor,Pasir Gudang,Hassan bin Abdul Karim
+P160,Johor,Johor Bahru,Akmal Nasrullah bin Mohd Nasir
+P161,Johor,Pulai,Salahuddin bin Ayub
+P162,Johor,Iskandar Puteri,Lim Kit Siang
+P163,Johor,Kulai,Teo Nie Ching
+P164,Johor,Pontian,Ahmad bin Maslan
+P165,Johor,Tanjung Piai,Wee Jeck Seng
+P166,W.P. Labuan,Labuan,Rozman bin Isli
+P167,Sabah,Kudat,Abd Rahim bin Bakri
+P168,Sabah,Kota Marudu,Maximus Johnity Ongkili
+P169,Sabah,Kota Belud,Isnaraissah Munirah binti Majilis @ Fakharudy
+P170,Sabah,Tuaran,Wilfred Madius Tangau
+P171,Sabah,Sepanggar,Mohd Azis bin Jamman
+P172,Sabah,Kota Kinabalu,Chan Foong Hin
+P173,Sabah,Putatan,Awang Suhaini bin Sahari
+P174,Sabah,Penampang,Ignatius Darell Leiking
+P175,Sabah,Papar,Ahmad bin Hassan
+P176,Sabah,Kimanis,Mohamad bin Alamin
+P177,Sabah,Beaufort,Azizah binti Mohd Dun
+P178,Sabah,Sipitang,Yamani Hafez bin Musa
+P179,Sabah,Ranau,Jonathan bin Yasin
+P180,Sabah,Keningau,Jeffrey Kitingan
+P181,Sabah,Tenom,Noorita Sual
+P182,Sabah,Pensiangan,Arthur Joseph Kurup
+P183,Sabah,Beluran,Ronald Kiandee
+P184,Sabah,Libaran,Zakaria bin Mohd Edris
+P185,Sabah,Batu Sapi,
+P186,Sabah,Sandakan,Wong Tien Fatt @ Wong Nyuk Foh
+P187,Sabah,Kinabatangan,Bung Moktar bin Radin
+P188,Sabah,Lahad Datu,Mohamaddin bin Ketapi
+P189,Sabah,Semporna,Mohd Shafie bin Apdal
+P190,Sabah,Tawau,Christina Liew Chin Jin
+P191,Sabah,Kalabakan,Ma'mun bin Sulaiman
+P192,Sarawak,Mas Gading,Mordi Anak Bimol
+P193,Sarawak,Santubong,Wan Junaidi bin Tuanku Jaafar
+P194,Sarawak,Petra Jaya,Fadillah bin Yusof
+P195,Sarawak,Bandar Kuching,Kelvin Yii Lee Wuen
+P196,Sarawak,Stampin,Chong Chieng Jen
+P197,Sarawak,Kota Samarahan,Rubiah binti Wang
+P198,Sarawak,Puncak Borneo,Willie Anak Mongin
+P199,Sarawak,Serian,Richard Riot Anak Jaem
+P200,Sarawak,Batang Sadong,Nancy Shukri
+P201,Sarawak,Batang Lupar,Rohani binti Abdul Karim
+P202,Sarawak,Sri Aman,Masir Anak Kujat
+P203,Sarawak,Lubok Antu,Jugah Anak Muyang @ Tambat
+P204,Sarawak,Betong,Robert Lawson Chuat
+P205,Sarawak,Saratok,Ali Anak Biju
+P206,Sarawak,Tanjong Manis,Yusuf bin Abd Wahab 
+P207,Sarawak,Igan,Ahmad Johnie bin Zawawi
+P208,Sarawak,Sarikei,Wong Ling Biu
+P209,Sarawak,Julau,Larry Soon @ Larry Sng Wei Shien
+P210,Sarawak,Kanowit,Aaron Ago Dagang
+P211,Sarawak,Lanang,Alice Lau Kiong Yieng
+P212,Sarawak,Sibu,Oscar Ling Chai Yew
+P213,Sarawak,Mukah,Hanifah Hajar Taib
+P214,Sarawak,Selangau,Baru Bian
+P215,Sarawak,Kapit,Alexander Nanta Linggi
+P216,Sarawak,Hulu Rajang,Wilson Ugak Anak Kumbong
+P217,Sarawak,Bintulu,Tiong King Sing
+P218,Sarawak,Sibuti,Lukanisman bin Awang Sauni
+P219,Sarawak,Miri,Michael Teo Yu Keng
+P220,Sarawak,Baram,Anyi Ngau
+P221,Sarawak,Limbang,Hasbi Bin Habibollah
+P222,Sarawak,Lawas,Henry Sum Agong
